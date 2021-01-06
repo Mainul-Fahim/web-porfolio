@@ -137,6 +137,8 @@ h2{
 
 }
 
+
+
 #head2{
 
     color: #363958;
@@ -159,6 +161,28 @@ h2{
 
 }
 
+#head-sec-3{
+
+    text-align: center;
+    font-size: 50px;
+    color: #363958;
+    line-height: 1;
+    margin-top: 3px;
+
+
+
+
+}
+
+#head31{
+
+    color: #FF8367;
+    font-size: 50px;
+
+
+}
+
+
 
 p{
 
@@ -178,3 +202,38 @@ p{
 
 }
 
+.project{
+
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 20px;
+    height: 70%;
+    width: 25%;
+    background-color: white;
+    margin-left: 5%;
+    padding-top: 1%;
+    margin-top: 3%;
+    padding-bottom: 0%;
+
+
+}
+
+.head41{
+
+    font-size: 30px;
+    line-height: 2px;
+    color: #363958;
+    font-weight: 400;
+    padding-left: 4px;
+
+
+}
+
+.project-area{
+
+    background-color: rgb(255, 221, 221);
+    padding-top: 100px;
+
+
+
+
+}
