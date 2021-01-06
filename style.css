@@ -255,6 +255,7 @@ p{
     padding-top: 1%;
     margin-top: 3%;
     padding-bottom: 0%;
+    
 
 
 }
@@ -294,12 +295,13 @@ p{
     padding-top: 8%;
     margin-top: 5%;
     height: 220px;
+    
 
 }
 
 .sec-left{
 
-    width: 70%;
+    width: 65%;
     float: left;
     margin-right: 5%;
     padding-left: 0%;
