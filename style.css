@@ -263,10 +263,11 @@ p{
 .head41{
 
     font-size: 25px;
-    line-height: 2px;
+    line-height: 26px;
     color: #363958;
     font-weight: 400;
     padding-left: 4px;
+    /* overflow: hidden; */
 
 
 }
