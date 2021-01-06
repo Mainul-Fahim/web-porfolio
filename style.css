@@ -174,6 +174,48 @@ h2{
 
 }
 
+#sec4-h4{
+
+    text-align: center;
+    font-size: 40px;
+    color: #363958;
+    margin-top: 0%;
+
+
+}
+
+#s4{
+
+    text-align: center;
+    font-weight: 400;
+    color: cadetblue;
+
+}
+
+.s5-final{
+
+    border: 1px solid black;
+    height: 40%;
+    width: 18%;
+    margin-left: 5%;
+    padding-top: 1%;
+    margin-top: 3%;
+    padding-bottom: 0%;
+    float: left;
+
+}
+
+.sec5{
+
+    border: 1 px solid red;
+    height: 400px;
+    background-color: burlywood;
+    padding-top: 4%;
+
+
+}
+
+
 #head31{
 
     color: #FF8367;
@@ -237,3 +279,56 @@ p{
 
 
 }
+
+.sec4{
+
+    
+    border-radius: 30px;
+    width: 65%;
+    background-image: url("images/background.png");
+    background-size: 1500px;
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-left: 18%;
+    padding-left: 5%;
+    padding-top: 8%;
+    margin-top: 5%;
+    height: 220px;
+
+}
+
+.sec-left{
+
+    width: 70%;
+    float: left;
+    margin-right: 5%;
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    text-align: center;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0%;
+    border: 3px solid rgb(21, 255, 255);
+    height: 200px;
+    color: rgb(209, 157, 60);
+
+}
+
+.sec-right{
+
+    overflow: auto;
+
+
+
+}
+
+.final-head{
+
+    text-align: center;
+    font-size: 30px;
+    line-height: 0;
+
+
+}
+
